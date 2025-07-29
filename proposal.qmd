@@ -1,11 +1,11 @@
 ---
-title: "Proposal title"
+title: "Proposal of Prediction of Tornado Occurance in Minnesota"
 subtitle: "Proposal"
 author: 
-  - name: "Team Name - Team member 1, Team member 2,..."
+  - name: "The Crengineers - Tyler Hart"
     affiliations:
-      - name: "College of Information Science, University of Arizona"
-description: "Project description"
+      - name: "College of Information Science, College of Systems and Industrial Engineering, University of Arizona"
+description: "TODO: An analysis of historical tornado patterns in the area of Minnesota (MN) from 2000-Current(2025) to predict Tornado Damage"
 format:
   html:
     code-tools: true
@@ -23,6 +23,7 @@ jupyter: python3
 #| label: load-pkgs
 #| message: false
 import numpy as np
+import pandas as pd
 ```
 
 ## Dataset
@@ -30,6 +31,11 @@ import numpy as np
 ```{python}
 #| label: load-dataset
 #| message: false
+
+HistoricRaw = pd.read_csv("data/HistoricalTornadoData.csv")
+HistoricRaw.head()
+HistoricRaw.info()
+
 ```
 
 A brief description of your dataset including its provenance, dimensions, etc. as well as the reason why you chose this dataset.

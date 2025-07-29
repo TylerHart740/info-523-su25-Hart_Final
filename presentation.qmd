@@ -3,7 +3,7 @@ title: "Prediction of Tornado Occurance in Tornado Valley"
 subtitle: "INFO 523 - Summer 2025 - Final Project"
 author: "The Crengineers - Tyler Hart"
 title-slide-attributes:
-  data-background-image: images/watercolour_sys02_img34_teacup-ocean.jpg
+  data-background-image: images/1024px-Tornado_Alley_Diagram.png
   data-background-size: stretch
   data-background-opacity: "0.7"
   data-slide-number: none

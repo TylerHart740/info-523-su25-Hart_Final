@@ -5,7 +5,7 @@ author:
   - name: "The Crengineers - Tyler Hart"
     affiliations:
       - name: "College of Information Science, College of Systems and Industrial Engineering, University of Arizona"
-description: "TODO: THIS STILL NEEDS TO BE FILLED OUT"
+description: "TODO: An analysis of historical tornado patterns in the area of Tonado Valley from 1950-Current(2025) tp predict Tornado Occurence"
 format:
    html:
     code-tools: true
