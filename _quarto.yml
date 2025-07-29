@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: Project Title
+  title: Prediction of Tornado Occurance in Tornado Valley
   navbar:
     right:
       - icon: github
-        href: https://github.com/INFO-523-SU24/final-project # Need to change to your project repo
+        href: https://github.com/TylerHart740/info-523-su25-Hart_Final # Need to change to your project repo
     left:
       - text: Project
         href: index.qmd
