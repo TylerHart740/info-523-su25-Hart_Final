@@ -1,7 +1,7 @@
 ---
-title: "Project title"
+title: "Prediction of Tornado Occurance in Tornado Valley"
 subtitle: "INFO 523 - Summer 2025 - Final Project"
-author: "Author names"
+author: "The Crengineers - Tyler Hart"
 title-slide-attributes:
   data-background-image: images/watercolour_sys02_img34_teacup-ocean.jpg
   data-background-size: stretch
@@ -23,6 +23,8 @@ execute:
 
 # Load packages here
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 ```
@@ -35,7 +37,6 @@ import seaborn as sns
 sns.set_theme(style="whitegrid")
 sns.set_context("notebook", font_scale=1.1)
 
-import matplotlib.pyplot as plt
 plt.rcParams['figure.dpi'] = 300
 plt.rcParams['savefig.dpi'] = 300
 plt.rcParams['figure.figsize'] = (6, 6 * 0.618)
