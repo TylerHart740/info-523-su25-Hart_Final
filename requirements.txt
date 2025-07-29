@@ -1,6 +1,7 @@
 # Code/Formatting
 jupyter
 nbformat
+quarto
 
 # Data Processing
 

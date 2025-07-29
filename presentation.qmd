@@ -19,7 +19,7 @@ execute:
 
 ```{python}
 #| label: load-packages
-#| include: false
+#| echo: false
 
 # Load packages here
 import pandas as pd
@@ -31,7 +31,7 @@ import seaborn as sns
 
 ```{python}
 #| label: setup
-#| include: false
+#| echo: false
 #| 
 # Set up plot theme and figure resolution
 sns.set_theme(style="whitegrid")
