@@ -1,11 +1,11 @@
 ---
-title: "Project Title"
+title: "Prediction of Tornado Occurance in Tornado Valley"
 subtitle: "INFO 523 - Final Project"
 author: 
-  - name: "Team name - Team member 1, Team member 2,..."
+  - name: "The Crengineers - Tyler Hart"
     affiliations:
-      - name: "College of Information Science, University of Arizona"
-description: "Project description"
+      - name: "College of Information Science, College of Systems and Industrial Engineering, University of Arizona"
+description: "TODO: THIS STILL NEEDS TO BE FILLED OUT"
 format:
    html:
     code-tools: true
